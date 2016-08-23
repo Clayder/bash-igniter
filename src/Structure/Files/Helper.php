@@ -1,4 +1,4 @@
-<<?php
+<?php
 if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
 if (function_exists('REPLACE_NAME_HERE'))
